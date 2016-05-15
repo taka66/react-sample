@@ -1,0 +1,26 @@
+{
+  "name": "react-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify --debug index.js > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taka66/react-sample.git"
+  },
+  "author": "takahirofujii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taka66/react-sample/issues"
+  },
+  "homepage": "https://github.com/taka66/react-sample#readme",
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "react": "^15.0.2",
+    "reactify": "^1.1.1",
+    "uglify-js": "^2.6.2"
+  }
+}
