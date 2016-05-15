@@ -1,7 +1,7 @@
 Project for testing small code of react.js.
 
 ```bash:setup
-npm install --save-dev browserify reactify react
+npm install --save-dev browserify reactify react react-dom
 ```
 
 ```bash:build
